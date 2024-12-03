@@ -8,7 +8,7 @@
 #
 # This is free software, licensed under the MIT License.
 # See /LICENSE for more information.
-# lede last support version is R23.8.23 build R23.5.1
+# lede last support version is R23.8.23
 
 name: OpenWrt Builder
 
@@ -19,7 +19,7 @@ on:
 env:
   REPO_URL: https://github.com/coolsnowwolf/lede
   REPO_BRANCH: master
-  REPO_COMMIT: 7c84256de9fe57ca8f395929ecdf8c5bcb5e98e8
+  REPO_COMMIT: 97c30dc6200a1acd28a16e0f1651809afb25c72f
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
   DIY_P1_SH: diy-part1.sh
