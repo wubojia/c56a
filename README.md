@@ -1,8 +1,5 @@
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
-update
-包含ShadowsocksR Plus+,增加l2tp拨号。
-路由器固件ip:192.168.199.1
-用户名:root密码:password
+
 
 # Actions-OpenWrt
 
@@ -11,7 +8,10 @@ update
 ![GitHub Forks](https://img.shields.io/github/forks/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Forks&logo=github)
 
 A template for building OpenWrt with GitHub Actions
-
+###Update
+包含ShadowsocksR Plus+,增加l2tp拨号。
+路由器固件ip:192.168.199.1
+用户名:root密码:password
 ## Usage
 
 - Click the [Use this template](https://github.com/P3TERX/Actions-OpenWrt/generate) button to create a new repository.
