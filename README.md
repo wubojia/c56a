@@ -8,6 +8,7 @@
 ![GitHub Forks](https://img.shields.io/github/forks/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Forks&logo=github)
 
 A template for building OpenWrt with GitHub Actions
+
 ###Update
 包含ShadowsocksR Plus+,增加l2tp拨号。
 路由器固件ip:192.168.199.1
