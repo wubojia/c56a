@@ -9,7 +9,7 @@
 
 A template for building OpenWrt with GitHub Actions
 
-###Update
+### Update
 包含ShadowsocksR Plus+,增加l2tp拨号。
 路由器固件ip:192.168.199.1
 用户名:root密码:password
